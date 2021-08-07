@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Wagner Arcieri/AndroidStudioProjects/Calculator/app/src/main/res/drawable/botao_numero_clicado.xml" value="0.3828125" />
+        <entry key="..\:/Users/Wagner Arcieri/AndroidStudioProjects/Calculator/app/src/main/res/drawable/botao_operadores_selecionado.xml" value="0.3828125" />
         <entry key="..\:/Users/Wagner Arcieri/AndroidStudioProjects/Calculator/app/src/main/res/drawable/custom_button.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/Wagner Arcieri/AndroidStudioProjects/Calculator/app/src/main/res/drawable/sape_numero_selecionado.xml" value="0.3828125" />
         <entry key="..\:/Users/Wagner Arcieri/AndroidStudioProjects/Calculator/app/src/main/res/drawable/shape_numero_normal.xml" value="0.3828125" />
