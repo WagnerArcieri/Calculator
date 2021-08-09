@@ -27,7 +27,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         IniciarComponente();
         getSupportActionBar().hide();
+        ListenersSetters();
+    }
 
+
+
+
+    private void ListenersSetters(){
         numeroZero.setOnClickListener(this);
         numeroUm.setOnClickListener(this);
         numeroDois.setOnClickListener(this);
@@ -91,7 +97,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }
             }
         });
-
     }
 
     @SuppressLint("WrongViewCast")
