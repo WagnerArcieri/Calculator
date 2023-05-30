@@ -1,4 +1,4 @@
-# Calculator App 🧮
+# Calculator 🧮
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/wagarcdev/Calculator/main/Calculator.PNG" alt="Apresentação do Pokédex" style="width: 100%">
